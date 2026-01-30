@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/cepal-ai.png" alt="CEPAL AI" width="140" />
+  <img src="cepal-ai.png" alt="CEPAL AI Logo" width="140" />
 </p>
